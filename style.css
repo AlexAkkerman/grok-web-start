@@ -1,0 +1,25 @@
+.card {
+    width:max-content;
+    background-color: lightgrey;
+    margin:0px auto;
+    text-align: center;
+    padding:2rem 1.5rem;
+    margin-top:10rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    
+}
+
+.card:hover {
+    box-shadow:  4px 8px rgba(0,0,0,0.5);
+}
+
+.card h1 {
+    color:blue;
+    font-family: sans-serif;
+}
+
+.card p {
+    font-family: sans-serif;
+}
+
